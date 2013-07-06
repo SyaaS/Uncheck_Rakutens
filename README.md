@@ -9,10 +9,10 @@ This script can uncheck automatic for Rakuten many Checkbox
 
 Now, Uncheck Page is below:
 
-*Rakuten Ichiba
- - https://basket.step.rakuten.co.jp/rms/mall/bs/confirmorderquicknormalize*
-*Rakuten Delivery
- - https://delivery.rakuten.co.jp/?module=Default&action=OrderStep* 
+- Rakuten Ichiba
+ -- https://basket.step.rakuten.co.jp/rms/mall/bs/confirmorderquicknormalize
+- Rakuten Delivery
+ -- https://delivery.rakuten.co.jp/?module=Default&action=OrderStep* 
  
 
  Good lucj happy shopping. =)
